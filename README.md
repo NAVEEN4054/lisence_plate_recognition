@@ -48,20 +48,20 @@ python detect_license_plate.py --image path/to/your/image.jpg
 
 License plate detection and recognition can be applied in various fields, including:
 
-**Traffic Management:** Automated monitoring of vehicles for traffic regulation enforcement.
-**Security:** Surveillance systems to track vehicles entering or leaving a facility.
-**Parking Management:** Automated entry and exit systems in parking lots.
-**Toll Collection:** Automated toll booths that recognize vehicle license plates for payment processing.
+* **Traffic Management:** Automated monitoring of vehicles for traffic regulation enforcement.
+* **Security:** Surveillance systems to track vehicles entering or leaving a facility.
+* **Parking Management:** Automated entry and exit systems in parking lots.
+* **Toll Collection:** Automated toll booths that recognize vehicle license plates for payment processing.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-* 1.Fork the repository.
-* 2.Create your feature branch (git checkout -b feature/AmazingFeature).
-* 3.Commit your changes (git commit -m 'Add some AmazingFeature').
-* 4.Push to the branch (git push origin feature/AmazingFeature).
-* 5.Open a Pull Request.
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a Pull Request.
 
 ## lisence
 
